@@ -3,8 +3,10 @@ Customized standard library containers for thread safety and concurreny
 
 ### Usage
 Require C++ 11 and higher versions
+
 HEADER ONLY library, you can include any container you wish to use in standard library with prefix 'concurrent_'
-Template type
+
+All containers are template type
 
 #### Example
 You can use namespace 'ema'
